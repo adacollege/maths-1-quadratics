@@ -1,1 +1,1 @@
-# maths-as-quadratics
+# Quadratic functions, equations and graphs
