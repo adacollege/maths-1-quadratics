@@ -1,4 +1,4 @@
 # Quadratic functions, equations and graphs
 
 * Three forms for quadratic
-* Quadratics problems (tba)
+* Quadratics problems, and selected solutions
