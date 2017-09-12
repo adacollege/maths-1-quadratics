@@ -1,3 +1,4 @@
 # Quadratic functions, equations and graphs
 
-Edit done on steven by ian
+* Three forms for quadratic
+* Quadratics problems (tba)
