@@ -9,5 +9,6 @@ Done
 
 To do
 
+* The discriminant
 * Techniques for when the coefficient of x^2 is not 1
 * Quadratic inequalities
